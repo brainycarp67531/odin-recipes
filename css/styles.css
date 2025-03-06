@@ -2,4 +2,16 @@
 
 body {
     font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(39, 39, 39);
+    color: white;
 }
+
+a {
+    color: rgb(206, 228, 248);
+    font-size: 18px;
+}
+
+H1  {
+    text-align: center;
+}
+
